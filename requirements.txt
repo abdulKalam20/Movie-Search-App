@@ -1,0 +1,13 @@
+# Backend Dependencies (Node.js)
+# Use package.json instead - this project uses npm
+
+# If converting to Python:
+# Flask==2.3.0
+# Flask-CORS==4.0.0
+# requests==2.31.0
+# python-dotenv==1.0.0
+
+# Frontend Dependencies (managed by npm)
+# React 19.2.3
+# React DOM 19.2.3
+# Testing Library dependencies
