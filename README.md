@@ -95,6 +95,4 @@ PORT=5000
 
 - `GET /api/movies?search=<query>` - Search for movies by title
 
-## License
 
-ISC
